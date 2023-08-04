@@ -1,0 +1,10 @@
+public class {
+    public static void main(String[] args) {
+        {
+            byte=12000;
+            short s=20;
+            int i = 20000;
+            long m =200000L;
+        }
+    }
+}

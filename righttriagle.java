@@ -11,7 +11,7 @@ public class righttriagle {
             }
             for(int k=0;k<=i;k++)
             {
-                System.out.print("*");
+                System.out.print(k+1);
             }
             System.out.println();
         }
